@@ -54,4 +54,4 @@ A secure banking REST API built using Java, Spring Boot, Spring Security, JWT Au
 ## 📫 Connect With Me
 
 - LinkedIn: (https://www.linkedin.com/in/priyanka-chavan-31488937b)
-- Email: priyanchavan72582@gmail.com
+- Email: priyankachavan72582@gmail.com
